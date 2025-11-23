@@ -52,7 +52,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mereyem02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mereyem02&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
 
 </div>
 
