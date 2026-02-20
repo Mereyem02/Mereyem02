@@ -17,6 +17,7 @@
 - 💡 I love turning ideas into reality through **code**
 - 🎯 My goal is to create **meaningful and impactful** solutions
 - ✨ I believe in **clean code**, **collaboration**, and **continuous improvement**
+- 🎓 I'm looking for a **PFA internship** (Projet de Fin d'Année)
 
 ---
 
@@ -64,6 +65,7 @@ const mereyem = {
     currentFocus: "Building amazing projects and learning new skills",
     learning: ["Advanced JavaScript", "Modern Web Development", "Cloud Technologies"],
     interests: ["Web Development", "UI/UX Design", "Open Source"],
+    lookingFor: "PFA Internship (Projet de Fin d'Année) 🎓",
     funFact: "I turn coffee into code ☕💻"
 };
 ```
