@@ -95,10 +95,9 @@ const mereyem = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mereyem02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mereyem02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mereyem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![GitLab](https://img.shields.io/badge/GitLab-Mereyem02-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/your-gitlab-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mereyem-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mereyem-elhaouzi)
+[![GitLab](https://img.shields.io/badge/GitLab-Mereyem02-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mereyemelhaouzi407)
 
-> 💡 *Replace `your-linkedin-username` and `your-gitlab-username` in the links above with your actual usernames.*
 
 </div>
 
