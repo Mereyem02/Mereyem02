@@ -25,7 +25,7 @@
 
 🎯 My goal is to create useful and impactful technology
 
-🎓 Internship Opportunity
+#🎓 Internship Opportunity
 
 🔎 Currently looking for a PFA Internship – Summer 2026
 
