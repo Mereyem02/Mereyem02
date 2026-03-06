@@ -5,6 +5,7 @@
 ### 🌟 Welcome to my GitHub Profile 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Passionate+Developer;Always+Learning;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 
 </div>
 
@@ -125,7 +126,6 @@ const mereyem = {
 ### 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 
 
 ### 👀 Profile Views
