@@ -12,12 +12,27 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm continuously working on **expanding my knowledge** and building exciting projects
-- 🌱 I'm always learning and exploring **new technologies** and best practices
-- 💡 I love turning ideas into reality through **code**
-- 🎯 My goal is to create **meaningful and impactful** solutions
-- ✨ I believe in **clean code**, **collaboration**, and **continuous improvement**
+🎓 4th-year Computer Engineering Student at ENSAO – National School of Applied Sciences, Oujda
 
+💻 Passionate about Software Engineering, Artificial Intelligence, and Modern Web Technologies
+
+🔭 I enjoy building full-stack applications and intelligent systems
+
+🌱 Continuously learning AI, automation, DevOps, and modern web architectures
+
+💡 I love transforming ideas into real digital solutions through code
+
+🎯 My goal is to create useful and impactful technology
+
+🎓 Internship Opportunity
+
+🔎 Currently looking for a PFA Internship – Summer 2026
+
+💻 Interested in Software Development, AI, Web Development, and DevOps
+
+🚀 Motivated to contribute to real-world projects and innovative solutions
+
+🤝 Open to collaboration and learning opportunities
 ---
 
 ## 🛠️ Technologies & Tools
