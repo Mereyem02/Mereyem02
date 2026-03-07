@@ -1,4 +1,4 @@
-<div align="center">
+<img width="735" height="411" alt="image" src="https://github.com/user-attachments/assets/15cbef8e-12ce-4ffe-bfc5-3de32cb83b3b" /><div align="center">
   
 # 👋 Hello, I'm Mereyem!
 
@@ -114,7 +114,7 @@ E-commerce platform for Moroccan artisans with product management and online pay
 Desktop + backend system for managing immigration dossiers, documents, and automated email processing.
 
 🌐 **Portfolio Website**  
-Still Baking it (50% done) :)
+Portfolio now is live :https://mereyem-portfolio-3d.vercel.app/
 ---
 
 ## 📊 GitHub Stats
