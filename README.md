@@ -1,4 +1,3 @@
-<img width="735" height="411" alt="image" src="https://github.com/user-attachments/assets/15cbef8e-12ce-4ffe-bfc5-3de32cb83b3b" /><div align="center">
   
 # 👋 Hello, I'm Mereyem!
 
